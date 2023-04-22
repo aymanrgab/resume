@@ -17,7 +17,7 @@ li {
 
 .resume-container {
   background: #e5e7e9;
-  width: 1110px;
+  width: 1000px;
   margin: auto auto;
   @media print {
     margin: 0;
